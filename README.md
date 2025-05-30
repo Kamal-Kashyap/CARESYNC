@@ -39,7 +39,7 @@ To run CARESYNC locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ekansh-Bhushan/Vihaan007.git
+   git clone https://github.com/Kamal-Kashyap/CARESYNC.git
 
 2. Install the required file:
    ```bash
